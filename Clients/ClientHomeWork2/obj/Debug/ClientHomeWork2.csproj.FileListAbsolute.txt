@@ -1,0 +1,9 @@
+F:\WCF\Clients\ClientHomeWork2\bin\Debug\ClientHomeWork2.exe.config
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.csprojResolveAssemblyReference.cache
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.Form1.resources
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.Properties.Resources.resources
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.csproj.GenerateResource.Cache
+F:\WCF\Clients\ClientHomeWork2\bin\Debug\ClientHomeWork2.exe
+F:\WCF\Clients\ClientHomeWork2\bin\Debug\ClientHomeWork2.pdb
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.exe
+F:\WCF\Clients\ClientHomeWork2\obj\Debug\ClientHomeWork2.pdb

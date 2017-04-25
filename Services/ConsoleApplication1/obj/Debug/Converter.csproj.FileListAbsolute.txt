@@ -1,0 +1,12 @@
+F:\WCF\HomeWork1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\WCF\HomeWork1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\WCF\HomeWork1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\WCF\HomeWork1\ConsoleApplication1\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+F:\WCF\HomeWork1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\WCF\HomeWork1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\WCF\Services\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\WCF\Services\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\WCF\Services\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\WCF\Services\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\WCF\Services\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\WCF\Services\ConsoleApplication1\obj\Debug\Converter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+F:\WCF\HomeWork1\DiskInfo\bin\Debug\DiskInfo.exe.config
+F:\WCF\HomeWork1\DiskInfo\obj\Debug\DiskInfo.csprojResolveAssemblyReference.cache
+F:\WCF\HomeWork1\DiskInfo\bin\Debug\DiskInfo.exe
+F:\WCF\HomeWork1\DiskInfo\bin\Debug\DiskInfo.pdb
+F:\WCF\HomeWork1\DiskInfo\obj\Debug\DiskInfo.exe
+F:\WCF\HomeWork1\DiskInfo\obj\Debug\DiskInfo.pdb
+F:\WCF\Services\DiskInfo\bin\Debug\DiskInfo.exe.config
+F:\WCF\Services\DiskInfo\obj\Debug\DiskInfo.exe
+F:\WCF\Services\DiskInfo\obj\Debug\DiskInfo.pdb

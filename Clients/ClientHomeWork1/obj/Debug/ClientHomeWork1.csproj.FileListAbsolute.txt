@@ -1,0 +1,5 @@
+F:\WCF\Clients\ClientHomeWork1\bin\Debug\ClientHomeWork1.exe
+F:\WCF\Clients\ClientHomeWork1\bin\Debug\ClientHomeWork1.pdb
+F:\WCF\Clients\ClientHomeWork1\obj\Debug\ClientHomeWork1.csprojResolveAssemblyReference.cache
+F:\WCF\Clients\ClientHomeWork1\obj\Debug\ClientHomeWork1.exe
+F:\WCF\Clients\ClientHomeWork1\obj\Debug\ClientHomeWork1.pdb
